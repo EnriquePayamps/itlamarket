@@ -1,0 +1,11 @@
+C:\Users\Enrique Payamps\source\repos\ItlaMarket\ItlaMarket\bin\Debug\netcoreapp3.1\ItlaMarket.exe
+C:\Users\Enrique Payamps\source\repos\ItlaMarket\ItlaMarket\bin\Debug\netcoreapp3.1\ItlaMarket.deps.json
+C:\Users\Enrique Payamps\source\repos\ItlaMarket\ItlaMarket\bin\Debug\netcoreapp3.1\ItlaMarket.runtimeconfig.json
+C:\Users\Enrique Payamps\source\repos\ItlaMarket\ItlaMarket\bin\Debug\netcoreapp3.1\ItlaMarket.runtimeconfig.dev.json
+C:\Users\Enrique Payamps\source\repos\ItlaMarket\ItlaMarket\bin\Debug\netcoreapp3.1\ItlaMarket.dll
+C:\Users\Enrique Payamps\source\repos\ItlaMarket\ItlaMarket\bin\Debug\netcoreapp3.1\ItlaMarket.pdb
+C:\Users\Enrique Payamps\source\repos\ItlaMarket\ItlaMarket\obj\Debug\netcoreapp3.1\ItlaMarket.csprojAssemblyReference.cache
+C:\Users\Enrique Payamps\source\repos\ItlaMarket\ItlaMarket\obj\Debug\netcoreapp3.1\ItlaMarket.AssemblyInfoInputs.cache
+C:\Users\Enrique Payamps\source\repos\ItlaMarket\ItlaMarket\obj\Debug\netcoreapp3.1\ItlaMarket.AssemblyInfo.cs
+C:\Users\Enrique Payamps\source\repos\ItlaMarket\ItlaMarket\obj\Debug\netcoreapp3.1\ItlaMarket.dll
+C:\Users\Enrique Payamps\source\repos\ItlaMarket\ItlaMarket\obj\Debug\netcoreapp3.1\ItlaMarket.pdb
